@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **manirulbd2024@gmail.com**
 
+-  📫 My profile on INTRO card **https://introcardbd.app/profile/md.-manirul-islam**
+
 - 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
