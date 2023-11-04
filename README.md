@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manirulbd2024@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dlC1SEhqTwob05whwlJ28uhMJ4MvRAni/edit?usp=sharing&ouid=114732400847856450972&rtpof=true&sd=true](https://docs.google.com/document/d/1dlC1SEhqTwob05whwlJ28uhMJ4MvRAni/edit?usp=sharing&ouid=114732400847856450972&rtpof=true&sd=true)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
