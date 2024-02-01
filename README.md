@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Manirul Islam</h1>
-<h3 align="center">I'm a businessman and I have a company of exporting all kinds of garments from Bangladesh to worldwide but I have a passion for programming, problem- solving, and ethical hacking. Seeking opportunities to further develop skills, contribute to projects, and continue learning in the fields of software development and Cyber Security.</h3>
+<h3 align="center">Programming is my Passion, not my Profession.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafanhaizar&label=Profile%20views&color=0e75b6&style=flat" alt="rafanhaizar" /> </p>
 
